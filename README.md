@@ -20,7 +20,7 @@ A modern, interactive portfolio website built with React JS featuring a live 3D 
 - Contact — email, phone, GitHub, LinkedIn
 
 ## Live Demo
-https://sanjai-portfolio.vercel.app
+https://sanjaie-portfolio.netlify.app/
 
 ## Run Locally
 npm install
